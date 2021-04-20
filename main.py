@@ -1,4 +1,4 @@
-"""# Exercise1
+# Exercise1
 def distance_from_zero(x):
     if type(x) == float or type(x) == int:
         return abs(x)
@@ -9,7 +9,7 @@ def distance_from_zero(x):
 y = -5.6
 z = "what?"
 print(distance_from_zero(y))
-print(distance_from_zero(z))"""
+print(distance_from_zero(z))
 
 
 # Exercise2
